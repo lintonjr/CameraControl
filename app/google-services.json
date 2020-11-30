@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "348788391446",
+    "firebase_url": "https://control-camera-34810.firebaseio.com",
+    "project_id": "control-camera-34810",
+    "storage_bucket": "control-camera-34810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348788391446:android:9fc8f85c88891517d0ff37",
+        "android_client_info": {
+          "package_name": "com.equipe9.cameracontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348788391446-3ud31e3sg74do6pfol63t3mobhku8gu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.equipe9.cameracontrol",
+            "certificate_hash": "b28c6a00c86281490e628431303387f68a1933e0"
+          }
+        },
+        {
+          "client_id": "348788391446-3g8u8k3el8nlktq9ci7rvdhoflea6blh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.equipe9.cameracontrol",
+            "certificate_hash": "c59a13c97403c7ec6598669e9723d73e58c711f3"
+          }
+        },
+        {
+          "client_id": "348788391446-tenvmqhd2ch6elboogbmi5del5h0afn7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.equipe9.cameracontrol",
+            "certificate_hash": "70019495c6a74aa7b2ca8c062dcb89389a7a7140"
+          }
+        },
+        {
+          "client_id": "348788391446-bsr0ouqmd6uu61qbu7jv5j1mca6tovm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sqSoiufvsuN_UgQ11Rzw4SnoGZtYovo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348788391446-bsr0ouqmd6uu61qbu7jv5j1mca6tovm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348788391446:android:84f2e40615871fd8d0ff37",
+        "android_client_info": {
+          "package_name": "com.equipe9.controlcamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348788391446-ooh43ue9pb7f426ttsj911dsebdljgi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.equipe9.controlcamera",
+            "certificate_hash": "c59a13c97403c7ec6598669e9723d73e58c711f3"
+          }
+        },
+        {
+          "client_id": "348788391446-bsr0ouqmd6uu61qbu7jv5j1mca6tovm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_sqSoiufvsuN_UgQ11Rzw4SnoGZtYovo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348788391446-bsr0ouqmd6uu61qbu7jv5j1mca6tovm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

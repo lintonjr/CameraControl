@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera Control</string>
+    <string name="token_prefix">Token: %s</string>
+</resources>
